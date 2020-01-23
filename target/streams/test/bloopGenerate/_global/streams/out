@@ -1,0 +1,4 @@
+[debug] [root-_99_problems_in_scala-test] Classpath dependencies List()
+[debug] [root-_99_problems_in_scala-test] Dependencies from configurations List(root-_99_problems_in_scala)
+[debug] Bloop wrote the configuration of project 'root-_99_problems_in_scala-test' to '/Users/abhishekvaid/Dropbox/moocs/other/99_problems_in_scala/_99_problems_in_scala/.bloop/root-_99_problems_in_scala-test.json'
+[success] Generated .bloop/root-_99_problems_in_scala-test.json
